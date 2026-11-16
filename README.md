@@ -1,6 +1,5 @@
-# 한 학기 버티기 · 기획 문서
+# college-life-sim
 
-대학생활 시뮬레이션 게임 **한 학기 버티기**의 기획 문서를 모아 두는 레포예요.
+대학생활 시뮬레이션 게임을 기획서부터 직접 만들어 보는 튜터링 프로젝트예요.
 
-- 게임 플레이: https://swj0704.github.io/semester-survival/
-- 게임 코드: https://github.com/swj0704/semester-survival
+- 기획서: `대학생활 시뮬레이션 기획서.pdf`
